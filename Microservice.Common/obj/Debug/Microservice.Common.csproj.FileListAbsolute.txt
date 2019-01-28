@@ -1,0 +1,12 @@
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\Microservice.Common.exe.config
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\Microservice.Common.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\Microservice.Common.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\EntityFramework.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\Microservice.DataAccess.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\Microservice.DataAccess.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\EntityFramework.xml
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\obj\Debug\Microservice.Common.csprojResolveAssemblyReference.cache
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\obj\Debug\Microservice.Common.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice.Common\obj\Debug\Microservice.Common.pdb

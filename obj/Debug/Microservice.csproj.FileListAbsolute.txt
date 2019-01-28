@@ -1,0 +1,16 @@
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.exe.config
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.exe
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.pdb
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\bin\Debug\EntityFramework.dll
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\bin\Debug\EntityFramework.xml
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\obj\Debug\Microservice.csprojResolveAssemblyReference.cache
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\obj\Debug\Microservice.exe
+c:\users\walker\documents\visual studio 2015\Projects\Microservice\Microservice\obj\Debug\Microservice.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.BussinessLogic.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.Common.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.DataAccess.exe
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.BussinessLogic.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.Common.pdb
+C:\Users\Walker\Documents\Visual Studio 2015\Projects\Microservice\Microservice\bin\Debug\Microservice.DataAccess.pdb
